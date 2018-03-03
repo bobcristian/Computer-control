@@ -1,0 +1,8 @@
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\bin\Debug\Volume.exe.config
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\bin\Debug\Volume.exe
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\bin\Debug\Volume.pdb
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\bin\Debug\AudioSwitcher.AudioApi.dll
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\obj\Debug\Volume.csprojResolveAssemblyReference.cache
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\obj\Debug\Volume.exe
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Volume\Volume\obj\Debug\Volume.pdb
